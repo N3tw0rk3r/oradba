@@ -1,10 +1,10 @@
 #!/bin/bash
 #title           :db_mgmt.sh
 #description     :This script will manage Oracle standalone Database 
-#author		       :Hassan Besher A.K.A "N3tw0rk3r"
+#author		 :Hassan Besher A.K.A "N3tw0rk3r"
 #date            :29102018
 #version         :1.0    
-#usage		       :bash db_mgmt.sh
+#usage		 :bash db_mgmt.sh
 #notes           :Make sure you are running the script with OS User in DBA Group .
 #==================================================================================
 
